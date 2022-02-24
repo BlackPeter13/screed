@@ -2,7 +2,7 @@
 
 _Mining pool frontend for the amazing [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash)_
 
-![screenshot of polar](https://github.com/xamogast/polar/blob/main/screenshots/polar.png?raw=true)
+![screenshot of polar](https://github.com/xamogast/polar/blob/master/screenshots/polar.png?raw=true)
 
 [Foundation-server](https://github.com/blinkhash/foundation-server) is a fresh rewrite of NOMP,
 it works with new algos like KawPoW flawlessly and has minimal system requirements.
