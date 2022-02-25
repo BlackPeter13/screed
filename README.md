@@ -3,14 +3,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
-_Mining pool frontend for the amazing [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash)_
-
 ![screenshot of screed](https://github.com/xamogast/screed/blob/master/screenshots/screed.png?raw=true)
 
-[Foundation-server](https://github.com/blinkhash/foundation-server) is a fresh rewrite of NOMP,
-it works with new algos like KawPoW flawlessly and has minimal system requirements.
-
-I highly recommend looking into it if you are still using YiIMP or NOMP or you are just looking into starting a new pool.
+Screed is a frontend for the amazing mining-pool software [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash); a complete rewrite of NOMP. It works flawlessly with new algos like kawpow, has a clean API and has minimal system requirements. I highly recommend looking into foundation if you are still using YiIMP or NOMP or are just looking into starting a new pool in 2022.
 
 ### Setup
 _WIP but usable w/ some tweaking_ 
