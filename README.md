@@ -21,7 +21,6 @@ Until the SvelteKit port is finished, config vars have to be set up manually:
     - `block_reward` in src/Miners.svelte
     	- used for Round Estimates -- some logic needed if you want multiple pools
     	    	
-Important: _If you need a custom setup or premium support, please contact me through <https://polarpool.ml> -- DMs are a lot easier to miss than e-mails._
 
 #### TODO
 - [ ] finish SvelteKit port
