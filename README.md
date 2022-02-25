@@ -1,4 +1,4 @@
-# Skreed on top of Foundation
+# Skreed for Foundation
 
 _Mining pool frontend for the amazing [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash)_
 
