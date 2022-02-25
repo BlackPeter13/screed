@@ -1,8 +1,8 @@
-# Skreed for Foundation
+# Screed for Foundation
 
 _Mining pool frontend for the amazing [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash)_
 
-![screenshot of skreed](https://github.com/xamogast/skreed/blob/master/screenshots/skreed.png?raw=true)
+![screenshot of screed](https://github.com/xamogast/screed/blob/master/screenshots/screed.png?raw=true)
 
 [Foundation-server](https://github.com/blinkhash/foundation-server) is a fresh rewrite of NOMP,
 it works with new algos like KawPoW flawlessly and has minimal system requirements.
