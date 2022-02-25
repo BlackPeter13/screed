@@ -1,5 +1,8 @@
 # Screed for Foundation
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
 _Mining pool frontend for the amazing [foundation-server](https://github.com/blinkhash/foundation-server) from [blinkhash](https://github.com/blinkhash)_
 
 ![screenshot of screed](https://github.com/xamogast/screed/blob/master/screenshots/screed.png?raw=true)
