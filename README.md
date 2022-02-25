@@ -10,13 +10,12 @@ _Mining pool frontend for the amazing [foundation-server](https://github.com/bli
 [Foundation-server](https://github.com/blinkhash/foundation-server) is a fresh rewrite of NOMP,
 it works with new algos like KawPoW flawlessly and has minimal system requirements.
 
-I highly recommend looking into it, especially if you are still using YiIMP or NOMP.
+I highly recommend looking into it if you are still using YiIMP or NOMP or you are just looking into starting a new pool.
 
 ### Setup
-_WIP: The frontend is currently only usable after some config tweaking_ 
+_WIP but usable w/ some tweaking_ 
 
-
-The default setup is for a single-pool, but more pools can be added easily by editing
+The default setup is for a single-pool; more pools can be added by editing
 the Header component, and adding some logic to block_reward in the Miner component.
 
 Until the SvelteKit port is finished, config vars have to be set up manually:
@@ -26,6 +25,7 @@ Until the SvelteKit port is finished, config vars have to be set up manually:
     	    	
 
 #### TODO
+- [ ] add logic for coin selection
 - [ ] finish SvelteKit port
 - [ ] move config vars to .env
 - [ ] move stats calculations to store
